@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/f78437dd-cc5e-4338-adf1-9f3ccf60a7fa)
 ### 👋 Hello! I'm Luis Alejandro Peralta
 
 🎓 A **Software Engineer** with over **five years of experience** in the technology field, including:  
