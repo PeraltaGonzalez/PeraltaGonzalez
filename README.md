@@ -1,38 +1,45 @@
-### 👋 ¡Hola! Soy Luis Alejandro Peralta
+### 👋 Hello! I'm Luis Alejandro Peralta
 
-🎓 Ingeniero en **Software**, con sólida base en programación y tecnologías modernas.  
-🔐 Experiencia como **analista en ciberseguridad** y auditor en ciberriesgos.  
-💡 Apasionado por crear soluciones prácticas y eficientes, tanto en frontend como backend.
+🎓 A **Software Engineer** with over **five years of experience** in the technology field, including:  
+🔍 Two years in **digital forensic analysis**,  
+💻 One year as a **software developer**,  
+🛠️ And two years in **technical support and IT infrastructure**.
 
----
+I specialize in designing, developing, and testing software applications using technologies like **C#, .NET Core, SQL Server, Python, HTML, CSS, and Power BI**.  
+I'm also certified in **cybersecurity**, **digital forensics**, **web and mobile development**, **artificial intelligence**, **system administration**, and more.
 
-### 🧰 Tecnologías y Herramientas
-
-- 👨‍💻 **Lenguajes:** C#, Python, JavaScript, SQL, HTML, CSS  
-- ⚙️ **Frameworks y herramientas:** .NET Core, Flask, React, Power BI  
-- 🧩 **Bases de datos:** SQL Server  
-- 💻 **Otros:** Linux, Virtual Machines, Deep Learning (básico), Big Data (básico)
+My background in both **open-source and proprietary architectures** allows me to build **custom, efficient, and secure solutions** that align with business objectives and client needs.
 
 ---
 
-### 📚 Formación
+### 🧰 Tech Stack & Tools
 
-- 🧠 **Ingeniería de Software** – Universidad APEC  
-- 💻 **Técnico en Informática** – Centro Educativo Las Américas
+- 👨‍💻 **Languages:** C#, Python, JavaScript, SQL, HTML, CSS  
+- ⚙️ **Frameworks & Tools:** .NET Core, Flask, React, Power BI  
+- 🧩 **Databases:** SQL Server  
+- 💻 **Other:** Linux, basic Deep Learning, basic Big Data
 
 ---
 
-### 🎓 Certificaciones y Cursos destacados
+### 📚 Education
 
-- Desarrollo Web, Apps Móviles  
+- 🧠 **B.Sc. in Software Engineering** – Universidad APEC  
+- 💻 **Technical Degree in IT** – Centro Educativo Las Américas
+
+---
+
+### 🎓 Certifications & Courses Highlights
+
+- Web Development & Mobile App Development  
 - C#, React, Flask, Ruby on Rails  
-- Ciberseguridad, Hacking Ético, Seguridad Informática  
-- Informática Forense, Auditoría en Ciberseguridad  
-- Introducción a Deep Learning
+- Ethical Hacking, Cybersecurity, Digital Forensics  
+- Secure Remote Work, Incident Management  
+- Introduction to Deep Learning  
+- System & Network Administration
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
 - 📧 zluisperalta@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luis-peralta-510543179/)  
@@ -40,4 +47,4 @@
 
 ---
 
-> _"Aprender, construir, mejorar... una línea de código a la vez."_ 🧠💻
+> _"Learn, build, and improve — one line of code at a time."_ 🧠💻
