@@ -58,7 +58,6 @@
 ### 📫 Contacto
 
 - 📧 zluisperalta@gmail.com  
-- 📱 +1 809-664-8643  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luis-peralta-510543179/)  
 - 🖥️ [GitHub](https://github.com/tu_usuario)
 
