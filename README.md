@@ -15,22 +15,6 @@
 
 ---
 
-### 💼 Experiencia relevante
-
-- **Analista Técnico Digital** - Dirección de Policía Cibernética (DICAT)  
-  _Nov 2022 - Actualidad_  
-  Participación activa en análisis forense, ciberseguridad y manejo de incidentes.
-
-- **Soporte Técnico & Desarrollo** - Club Recreativo Campo Azul  
-  _Ene 2020 - Ago 2022_  
-  - Desarrollé un sistema de registro que aumentó los socios en un 40%.  
-  - Optimicé procesos internos, elevando la eficiencia del personal un 10%.
-
-- **Analista Programador** - Cooperativa La Telefónica  
-  _Ago 2024 - Actualidad_
-
----
-
 ### 📚 Formación
 
 - 🧠 **Ingeniería de Software** – Universidad APEC  
