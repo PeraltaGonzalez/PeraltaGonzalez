@@ -43,7 +43,7 @@ My background in both **open-source and proprietary architectures** allows me to
 
 - 📧 zluisperalta@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luis-peralta-510543179/)  
-- 🖥️ [GitHub](https://github.com/tu_usuario)
+- 🖥️ [GitHub](https://github.com/PeraltaGonzalez)
 
 ---
 
