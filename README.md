@@ -48,13 +48,6 @@
 
 ---
 
-### 📈 En búsqueda de:
-
-> 💼 Mi primer empleo profesional como desarrollador (frontend, backend o fullstack).  
-> 🚀 Oportunidades para seguir aprendiendo y crecer como programador.
-
----
-
 ### 📫 Contacto
 
 - 📧 zluisperalta@gmail.com  
